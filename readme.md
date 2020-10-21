@@ -1,4 +1,4 @@
-## Freenove RFID Starter Kit for Arduino
+## Freenove RFID Starter Kit
 
 A kit with a control board (compatible with Arduino® IDE) for learning programming and electronics.
 
